@@ -1,5 +1,22 @@
 # 💫 About Me:
-I’m currently working on<br><br>I’m currently working on building and refining full-stack and data-driven applications where backend reliability and data accuracy matter. This includes designing RESTful APIs, working with SQL databases, validating and cleaning structured data, and ensuring consistent data flow between services and user-facing features. I focus heavily on understanding how systems behave in real scenarios—debugging issues, analyzing logs, and improving data integrity so applications remain stable and trustworthy.<br><br>👯 I’m looking to collaborate on<br><br>I’m looking to collaborate on projects involving backend development, data analysis, or full-stack systems where clean architecture and real-world problem solving are important. I enjoy working with others on APIs, database-driven applications, analytics dashboards, or troubleshooting complex data issues. I’m especially interested in collaborating with people who care about writing maintainable code and using data to make informed decisions.<br><br>🤝 I’m looking for help with<br><br>I’m looking for help and mentorship around production-level engineering practices, especially performance optimization, system monitoring, and writing effective automated tests. I want to deepen my understanding of how large systems are maintained over time, how teams debug issues at scale, and how engineers make trade-offs when balancing performance, reliability, and development speed.<br><br>🌱 I’m currently learning<br><br>I’m currently learning advanced SQL techniques, deeper backend system design concepts, and best practices for data analysis and reporting. Alongside this, I’m improving my understanding of how data pipelines, validation checks, and analytics workflows support business decision-making. I’m also continuously improving my skills in debugging, documentation, and communicating technical findings clearly to both technical and non-technical stakeholders.<br><br>💬 Ask me about<br><br>You can ask me about REST API development, SQL querying and data analysis, debugging application and data issues, or how to translate business requirements into working software features. I’m comfortable discussing data validation, reporting logic, backend workflows, and how to analyze system behavior to identify inconsistencies or performance issues.<br><br>⚡ Fun fact<br><br>I genuinely enjoy investigating bugs and data issues—figuring out why something broke, tracing it through logs and queries, and fixing the root cause is more satisfying to me than just making things look good on the surface.
+🔭 I’m currently working on<br><br>
+I’m currently working on full-stack and data-driven applications using REST APIs, SQL databases, and backend services, with a strong focus on data validation, system reliability, and building stable backend workflows that support real-world use cases.<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+I’m looking to collaborate on backend or full-stack projects involving APIs, databases, data analysis, or application troubleshooting. I enjoy working on systems where clean architecture, maintainability, and practical problem-solving are important.<br><br>
+
+🤝 I’m looking for help with<br><br>
+I’m looking for help improving backend performance, writing better automated tests, and gaining deeper understanding of production-level debugging, monitoring, and logging practices used in real engineering environments.<br><br>
+
+🌱 I’m currently learning<br><br>
+I’m currently learning advanced SQL, backend system design, performance optimization techniques, and best practices for data analysis and scalable application development.<br><br>
+
+💬 Ask me about<br><br>
+You can ask me about REST API development, SQL queries, data analysis, debugging application issues, and turning business requirements into practical working features.<br><br>
+
+⚡ Fun fact<br><br>
+I genuinely enjoy debugging data issues and figuring out why systems break more than designing user interfaces.
+
 
 
 ## 🌐 Socials:
