@@ -1,21 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>
-I’m currently working on full-stack and data-driven applications using REST APIs, SQL databases, and backend services, with a strong focus on data validation, system reliability, and building stable backend workflows that support real-world use cases.<br><br>
+# 💫 About Me
 
-👯 I’m looking to collaborate on<br><br>
-I’m looking to collaborate on backend or full-stack projects involving APIs, databases, data analysis, or application troubleshooting. I enjoy working on systems where clean architecture, maintainability, and practical problem-solving are important.<br><br>
+🔭 I’m currently working on backend-focused full-stack applications using REST APIs, SQL databases, and data-driven workflows.
 
-🤝 I’m looking for help with<br><br>
-I’m looking for help improving backend performance, writing better automated tests, and gaining deeper understanding of production-level debugging, monitoring, and logging practices used in real engineering environments.<br><br>
+👯 I’m looking to collaborate on backend or full-stack projects involving APIs, database systems, and real-world application problem solving.
 
-🌱 I’m currently learning<br><br>
-I’m currently learning advanced SQL, backend system design, performance optimization techniques, and best practices for data analysis and scalable application development.<br><br>
+🤝 I’m looking for help with backend performance optimization, testing strategies, and production-level debugging & logging.
 
-💬 Ask me about<br><br>
-You can ask me about REST API development, SQL queries, data analysis, debugging application issues, and turning business requirements into practical working features.<br><br>
+🌱 I’m currently learning advanced SQL, backend system design, scalability patterns, and data analysis best practices.
 
-⚡ Fun fact<br><br>
-I genuinely enjoy debugging data issues and figuring out why systems break more than designing user interfaces.
+💬 Ask me about REST API development, SQL queries, backend debugging, data validation, and turning requirements into working features.
+
+⚡ Fun fact: I enjoy debugging data and backend issues more than designing UIs.
+
 
 
 
