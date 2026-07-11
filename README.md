@@ -1,34 +1,104 @@
-# 💫 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20AI-Driven%20Development&descAlignY=55&descSize=16"/>
+Show Image
 
-🔭 I’m currently working on backend-focused full-stack applications using REST APIs, SQL databases, and data-driven workflows.
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
 
-👯 I’m looking to collaborate on backend or full-stack projects involving APIs, database systems, and real-world application problem solving.
+</div>
 
-🤝 I’m looking for help with backend performance optimization, testing strategies, and production-level debugging & logging.
+🧠 About Me
 
-🌱 I’m currently learning advanced SQL, backend system design, scalability patterns, and data analysis best practices.
-
-💬 Ask me about REST API development, SQL queries, backend debugging, data validation, and turning requirements into working features.
-
-⚡ Fun fact: I enjoy debugging data and backend issues more than designing UIs.
-
-
-
-
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aman-protfolio-site-fxcf.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman--ansari/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansariaman1603@gmail.com)
+typescriptconst aman = {
+  location: "Kitchener, Ontario 🍁",
+  education: "M.Sc Applied Computer Science — Wilfrid Laurier University (GPA 3.7/4.0)",
+  currentFocus: ["Distributed Systems", "Cloud-Native Architecture", "AI-Driven Development"],
+  aiTools: ["Claude Code", "GitHub Copilot", "Cursor"],
+  askMeAbout: ["REST APIs", "Backend Systems", "Docker/K8s", "CI/CD", "System Design"],
+  funFact: "I debug distributed systems for fun 🔍"
+};
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aman-1603&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aman-1603&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Aman-1603&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+ProjectStackHighlightsAPI Rate LimiterNode.js · Redis · React · Docker · PrometheusToken Bucket from scratch · Live dashboard · CI/CD · Enterprise API protection patternOrder Analytics PlatformJava · Kafka · PostgreSQL · Docker · Kubernetes500K+ events/day · 99.4% uptime · Full SRE observability stackDoH ML Detection SystemPython · XGBoost · scikit-learn · TensorFlowF1: 0.951 · ROC-AUC: 0.990 · 4-stage hybrid pipelineCIBC Stock AnalysisPython · pandas · scikit-learn · Matplotlib10+ years historical data · Predictive modeling · Risk analysis
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+⚡ Tech Stack
+
+<div align="center">
+Languages
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Frontend & Backend
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Cloud & DevOps
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Databases & Observability
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+AI Dev Tools
+
+Show Image
+Show Image
+Show Image
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+Show Image
+
+</div>
+
+🏆 Certifications
+
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+Show Image
+
+</div>
