@@ -85,12 +85,15 @@ const aman = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aman-1603&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-1603&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -104,9 +107,5 @@ const aman = {
 [![Data Analytics](https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/7255ad28e298)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aman-1603&icon=6&color=6" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
