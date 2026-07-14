@@ -84,9 +84,9 @@ const aman = {
 
 ### 📊 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1603&layout=donut&theme=tokyonight&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-1603&theme=tokyo-night&hide_border=true" />
