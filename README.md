@@ -88,12 +88,12 @@ const aman = {
 
 <table width="100%" style="border-spacing:0;border-collapse:collapse;">
   <tr>
-    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-1603&theme=tokyonight" width="100%"/></td>
-    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-1603&theme=tokyonight&utcOffset=-5" width="100%"/></td>
+    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-1603&theme=tokyonight" width="100%" height="auto"/></td>
+    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-1603&theme=tokyonight&utcOffset=-5" width="100%" height="auto"/></td>
   </tr>
   <tr>
-    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-1603&theme=tokyonight" width="100%"/></td>
-    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-1603&theme=tokyonight" width="100%"/></td>
+    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-1603&theme=tokyonight" width="100%" height="auto"/></td>
+    <td width="50%" style="padding:0"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-1603&theme=tokyonight" width="100%" height="auto"/></td>
   </tr>
 </table>
 
