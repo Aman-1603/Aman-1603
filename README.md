@@ -84,12 +84,18 @@ const aman = {
 
 ### 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-1603&theme=tokyonight)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-1603&theme=tokyonight" />
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-1603&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-1603&theme=tokyonight&utcOffset=-5)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-1603&theme=tokyonight)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-1603&theme=tokyonight)
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-1603&theme=tokyonight" width="100%"/></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman-1603&theme=tokyonight&utcOffset=-5" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-1603&theme=tokyonight" width="100%"/></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-1603&theme=tokyonight" width="100%"/></td>
+  </tr>
+</table>
 
 ![Snake animation](https://raw.githubusercontent.com/Aman-1603/Aman-1603/output/github-contribution-grid-snake-dark.svg)
 
