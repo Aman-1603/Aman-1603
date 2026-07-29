@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3b82f6,100:06b6d4&height=200&section=header&text=Aman%20Ansari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20%7C%20AI%20%7C%20Open%20to%20Work%20🚀&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=🧠+Building+AI-Powered+Full+Stack+Apps;☁️+Cloud+Native+%7C+Distributed+Systems;⚡+Java+%7C+Python+%7C+TypeScript+%7C+React;🤖+AI-Assisted+Development+Every+Day;🎓+Master's+%40+Wilfrid+Laurier+University" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Full+Stack+Apps;Cloud+Native+%7C+Distributed+Systems;Java+%7C+Python+%7C+TypeScript+%7C+React;AI-Assisted+Development+Every+Day;Masters+%40+Wilfrid+Laurier+University" alt="Typing SVG" />
 <br/>
 
 <a href="https://aman-protfolio-site-ejca.vercel.app/">
