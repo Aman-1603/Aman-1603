@@ -51,7 +51,7 @@ const aman = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-1603&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-1603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 ---
