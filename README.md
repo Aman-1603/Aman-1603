@@ -51,7 +51,7 @@ const aman = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-1603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-1603&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=6" width="100%"/>
 </div>
 
 ---
@@ -143,7 +143,7 @@ const aman = {
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aman-1603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-1603&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Aman-1603&theme=tokyonight&hide_border=true" />
 
 <br/>
 
